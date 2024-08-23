@@ -134,7 +134,7 @@ footer {
     header {
         flex-direction: column;
         justify-content: flex-start;
-        height: 170px;
+        height: auto;
     }
 
     #about-section {
