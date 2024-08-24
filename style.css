@@ -130,6 +130,22 @@ footer {
     transition: all 3s;
 }
 
+@media screen and (max-width: 1050px) {
+    #about-section {flex-direction: column;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    #bookings-section {
+        flex-direction: column;
+        height: 1000px;
+        margin-bottom: 10px;
+        align-content: space-between;
+
+    }
+
+}
+
 @media screen and (max-width: 768px) {
     header {
         flex-direction: column;
