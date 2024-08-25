@@ -6,9 +6,9 @@ body {
     display: flex;
     flex-direction: column;
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    font-family: "Bebas Neue", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+    font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
 h1 {
@@ -67,6 +67,7 @@ footer {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 10px;
 }
 
 .titles {
