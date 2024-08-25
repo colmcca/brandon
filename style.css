@@ -58,8 +58,7 @@ a:hover {
     background-color: grey;
     border-radius: 60px;
     padding: 40px;
-    background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
-
+    background: #ACE1AF;
 }
 
 footer {
@@ -128,6 +127,10 @@ footer {
 .hidden {
     opacity: 0;
     transition: all 3s;
+}
+
+#links-section {
+    margin-top: 15px;
 }
 
 @media screen and (max-width: 1050px) {
