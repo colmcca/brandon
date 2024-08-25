@@ -142,7 +142,7 @@ footer {
 
     #bookings-section {
         flex-direction: column;
-        height: 1000px;
+        height: auto;
         margin-bottom: 10px;
         align-content: space-between;
 
@@ -154,7 +154,7 @@ footer {
     header {
         flex-direction: column;
         height: auto;
-        justify-content: center;
+        padding-bottom: 10px;
     }
 
     #about-section {
@@ -175,7 +175,7 @@ footer {
 
     #bookings-section {
         flex-direction: column;
-        height: 1000px;
+        height: auto;
         margin-bottom: 10px;
         align-content: space-between;
 
