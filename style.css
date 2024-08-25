@@ -154,6 +154,7 @@ footer {
     header {
         flex-direction: column;
         height: auto;
+        text-align: center;
     }
 
     #about-section {
