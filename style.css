@@ -9,6 +9,7 @@ body {
     font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-style: normal;
+  width: 100%;
 }
 
 h1 {
@@ -155,6 +156,10 @@ footer {
         flex-direction: column;
         height: auto;
         padding-bottom: 10px;
+    }
+
+    h1 {
+        font-size: 45px;
     }
 
     #about-section {
