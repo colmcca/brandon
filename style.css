@@ -24,7 +24,6 @@ header {
     align-items: center;
     height: auto;
     background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
-    width: 100%;
 }
 
 a {
@@ -199,7 +198,7 @@ footer {
     }
 
     #about-picture {
-    width: 80%;
+    width: 90%;
     }
 }
 
