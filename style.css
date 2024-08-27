@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -22,7 +27,7 @@ header {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    height: auto;
+    height: 100px;
     background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
 }
 
@@ -51,8 +56,8 @@ a:hover {
     align-items: center;
     height: auto;
     border-bottom: ridge;
-    padding-bottom: 10px;
-    width: 100%;
+    padding-bottom: 30px;
+    margin-top: 30px;
 }
 
 #about-me-description {
@@ -75,6 +80,7 @@ footer {
 .titles {
     text-align: center;
     font-size: 40px;
+    margin-top: 30px;
 }
 
 
@@ -84,8 +90,9 @@ footer {
     display: grid;
     grid-template-columns: 50% 50%;
     justify-items: center;
-    gap: 10px;
-    padding-bottom: 10px;
+    gap: 20px;
+    padding-bottom: 30px;
+    margin-top: 30px;
 }
 
 #bookings-section {
@@ -125,6 +132,7 @@ footer {
     background-color: whitesmoke;
     border-radius: 10px;
     padding: 10px;
+    width: 30%;
 }
 
 .hidden {
@@ -133,6 +141,16 @@ footer {
 }
 
 #links-section {
+    margin-top: 15px;
+    font-weight: bolder;
+}
+
+#address {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#email {
     margin-top: 15px;
 }
 
@@ -179,6 +197,7 @@ footer {
 
     #about-me-description {
         width: 80%;
+        margin-top: 30px;
     }
 
     #music-section {
@@ -206,10 +225,13 @@ footer {
 
     #about-me-description {
         width: 90%;
+        padding: 20px;
     }
 
     #bookings-description {
         width: 90%;
+        margin-top: 30px;
+        margin-bottom: 30px;
     }
 }
 
