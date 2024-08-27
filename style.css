@@ -152,6 +152,11 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+   html {
+    margin-left: 5px;
+    margin-right: 5px;
+   }
+   
     header {
         flex-direction: column;
         height: auto;
@@ -189,6 +194,10 @@ footer {
 
     .titles {
         margin-top: 30px;
+    }
+
+    #about-picture {
+        width: 400px;
     }
 }
 
