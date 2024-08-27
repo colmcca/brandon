@@ -41,6 +41,7 @@ a:hover {
 #about-picture {
     border-radius: 5%;
     border: outset 10px;
+    width: 45%;
 }
 
 
@@ -198,7 +199,7 @@ footer {
     }
 
     #about-picture {
-        width: 80%;
+    width: 80%;
     }
 }
 
