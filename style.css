@@ -74,7 +74,7 @@ footer {
 
 .titles {
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 
@@ -162,6 +162,8 @@ footer {
         flex-direction: column;
         height: auto;
         padding-bottom: 10px;
+        margin-left: 0px;
+        margin-right: 0px;
     }
 
     h1 {
@@ -195,10 +197,19 @@ footer {
 
     .titles {
         margin-top: 30px;
+        font-size: 35px;
     }
 
     #about-picture {
     width: 90%;
+    }
+
+    #about-me-description {
+        width: 90%;
+    }
+
+    #bookings-description {
+        width: 90%;
     }
 }
 
