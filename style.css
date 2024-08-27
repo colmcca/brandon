@@ -252,10 +252,9 @@ footer {
     }
 
     #bookings-description {
-        width: 70%;
+        width: 90%;
         margin-top: 30px;
         margin-bottom: 30px;
-        height: auto;
     }
 
     nav {
