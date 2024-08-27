@@ -63,8 +63,8 @@ a:hover {
 #about-me-description {
     width: 30%;
     background-color: grey;
-    border-radius: 60px;
-    padding: 40px;
+    border-radius: 40px;
+    padding: 30px;
     background: #ACE1AF;
 }
 
@@ -196,7 +196,7 @@ footer {
     }
 
     #about-me-description {
-        width: 80%;
+        width: 60%;
         margin-top: 30px;
     }
 
@@ -225,14 +225,13 @@ footer {
 
     #about-me-description {
         width: 90%;
-        padding: 20px;
+        padding: 20px 10px 20px 10px;
     }
 
     #bookings-description {
-        width: 90%;
+        width: 70%;
         margin-top: 30px;
         margin-bottom: 30px;
-        overflow: hidden;
     }
 }
 
