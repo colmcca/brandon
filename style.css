@@ -168,6 +168,26 @@ footer {
 
     }
 
+    #about-me-description {
+        width: 90%;
+        margin-top: 30px;
+        padding: 20px 10px 20px 10px;
+    }
+
+    #about-picture {
+        width: 80%;
+    }
+
+    #bookings-description {
+        width: 70%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    nav {
+        margin-top: 15px;
+    }
+
 }
 
 @media screen and (max-width: 768px) {
@@ -232,6 +252,18 @@ footer {
         width: 70%;
         margin-top: 30px;
         margin-bottom: 30px;
+    }
+
+    nav {
+        margin-top: 15px;
+    }
+
+    #bookings-picture1 {
+        width: 50%;
+    }
+    
+    #bookings-picture2 {
+        width: 50%;
     }
 }
 
